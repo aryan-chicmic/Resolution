@@ -599,12 +599,12 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "cropdcide": "1",
+    "cropdcide": 2,
     "rect1": {
       "__id__": 5
     },
     "rect2": {
-      "__id__": 8
+      "__id__": 11
     },
     "_id": "35XlL+U0JHvJ3x6cMSWyia"
   },
